@@ -1,0 +1,11 @@
+ 
+1	Toyota	Avalon	HHB7412B	85	 
+2	Honda	Civic	LJB7113D	75	 
+3	Dodge	Charger	DD70468E	69	 
+4	Toyota	Camry	SJFFJ21M	88	 
+5	BMW	M340	S77I234P	92	 
+6	Kia	Forte	GJC1SSZ1	80	 
+7	Nissan	Sentra	YY2Y723W	71	 
+8	Acura	TLX	AAB829QA	94	 
+9	Mazda	Mazda3	XQS8219L	81	 
+10	Honda	Accord	NR1E834L	82	

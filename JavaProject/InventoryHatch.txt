@@ -1,0 +1,11 @@
+ 
+1	Honda	Fit	PPB7412B	55.50	 
+2	Seat	Ibiza	MWB7417D	63.25	 
+3	Nissan	Leaf	1QB3468L	49.99	 
+4	Kia	Rio	XSD8211M	53.00	 
+5	Audi	A1	AAA2234P	60.00	 
+6	Toyota	Prius	SOO1134L	64.99	 
+7	Ford	Focus	KJHY823W	45.00	 
+8	Subaru	Impreza	SJB8219V	39.99	 
+9	Fiat	500	MMKK934L	47.99	 
+10	Ford	Fiesta	QQB8234L	55.00	
